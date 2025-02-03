@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-30T17:18:32 IST" name="Default suite" finished-at="2025-01-30T17:18:40 IST" duration-ms="7555">
+  <suite started-at="2025-02-03T15:49:59 IST" name="Default suite" finished-at="2025-02-03T15:50:34 IST" duration-ms="34469">
     <groups>
     </groups>
-    <test started-at="2025-01-30T17:18:32 IST" name="Default test" finished-at="2025-01-30T17:18:40 IST" duration-ms="7555">
-      <class name="grid.SampleTest">
-        <test-method signature="sampleTest()[pri:0, instance:grid.SampleTest@4d1bf319]" started-at="2025-01-30T17:18:32 IST" name="sampleTest" finished-at="2025-01-30T17:18:40 IST" duration-ms="7468" status="PASS">
+    <test started-at="2025-02-03T15:49:59 IST" name="Default test" finished-at="2025-02-03T15:50:34 IST" duration-ms="34469">
+      <class name="package2.BrowserStackCode">
+        <test-method signature="sampleTest()[pri:0, instance:package2.BrowserStackCode@6c4906d3]" started-at="2025-02-03T15:49:59 IST" name="sampleTest" finished-at="2025-02-03T15:50:33 IST" duration-ms="34382" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sampleTest -->
-      </class> <!-- grid.SampleTest -->
+      </class> <!-- package2.BrowserStackCode -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
